@@ -5,3 +5,7 @@ function sayHi() {
 function sayBye() {
     alert('Hello from Git!');
 }
+
+function sayKharkiv() {
+    alert('Hello Kharkiv');
+}
