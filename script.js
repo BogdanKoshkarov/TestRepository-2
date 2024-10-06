@@ -9,3 +9,7 @@ function sayBye() {
 function sayKharkiv() {
     alert('Hello Kharkiv');
 }
+
+function sayKharkiv2() {
+    alert('Hello Kharkiv2');
+}
