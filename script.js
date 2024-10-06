@@ -9,3 +9,11 @@ function sayHi() {
 function sayBye() {
     alert('Hello from Git!');
 }
+
+function sayGoodBye() {
+    alert('Good Bye');
+}
+
+function sayHiJack() {
+    alert('Hi Jack');
+}
